@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "514067169657",
+    "firebase_url": "https://actividad58.firebaseio.com",
+    "project_id": "actividad58",
+    "storage_bucket": "actividad58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514067169657:android:e0b2c59f37d9b889",
+        "android_client_info": {
+          "package_name": "com.ittepic.tdm_actividad58calllog_ivanleobardoestradasalinas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514067169657-03e6ikm9r75orm21hu69ruvcb982af6s.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "514067169657-03e6ikm9r75orm21hu69ruvcb982af6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmthXkYcP5qus07Ai5ui1JI2SAqSyL59s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
